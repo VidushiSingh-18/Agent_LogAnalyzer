@@ -216,7 +216,7 @@ MODEL=gemini-1.5-flash
 
 ## 👩‍💻 Author
 
-**Avni** — [@avni18](https://github.com/avni18)
+**VidushiSingh** — [@VidushiSingh-18](https://https://github.com/VidushiSingh-18)
 
 ---
 
